@@ -1,0 +1,2 @@
+journal_source_ids.jsonl: sources=14483, по правилу 1шт=2575, по правилу 10%=4027, выбрано id=37111
+conference_source_ids.jsonl: sources=1094, по правилу 1шт=146, по правилу 10%=243, выбрано id=8617
